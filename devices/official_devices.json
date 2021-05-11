@@ -42,5 +42,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"RMX1971",
+      "name":"Realme 5 Pro",
+      "brand":"Realme",
+      "xda_thread":"https://forum.xda-developers.com/t/rom-11-official-palladiumos.4275207",
+      "maintainer":{
+         "name":"goshawk22",
+         "github_username":"goshawk22",
+         "telegram_url":"http://t.me/goshawk22"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-official-palladiumos.4275207/",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
