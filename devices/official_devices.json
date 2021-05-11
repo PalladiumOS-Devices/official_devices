@@ -86,5 +86,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"fajita",
+      "name":"OnePlus 6T",
+      "brand":"OnePlus",
+      "xda_thread":"https://forum.xda-developers.com/t/rom-official-fajita-11-palladiumos-v1-2.4274351/",
+      "maintainer":{
+         "name":"durgesh33",
+         "github_username":"durgesh33",
+         "telegram_url":"http://t.me/durgesh33"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-official-fajita-11-palladiumos-v1-2.4274351/",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
