@@ -1,0 +1,23 @@
+[
+   {
+     "brand": "Xiaomi",
+     "name": "Redmi Note 9 Series",
+     "codename": "miatoll",
+     "maintainer_name": "Lokesh Kasamneni",
+     "maintainer_xda": "https://forum.xda-developers.com/m/lokesh773.9362438/",
+     "maintainer_country": "IND",
+     "xda_thread": "null",
+     "photo": "https://avatars.githubusercontent.com/u/43849744?v=4",
+     "github_link": "https://github.com/Lokesh773",
+     "telegram_link": "https://t.me/l_o_k_e",
+     "active": true,
+     "supported_versions": [
+       "11"
+     ],
+     "supported_types": [
+       "GAPPS",
+       "VANILLA"
+     ],
+     "donation_link": "https://www.paypal.me/lokesh773"
+   }
+ ]
