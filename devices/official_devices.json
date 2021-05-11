@@ -41,6 +41,26 @@
              ],
              "dropped":false
           }
-       ]
-    }
+     {
+       "codename":"raphael",
+       "name":"Redmi K20 Pro/Mi 9T Pro",
+       "brand":"Xiaomi",
+       "xda_thread":"",
+       "maintainer":{
+          "name":"WadieHabib",
+          "github_username":"mans0amador",
+          "telegram_url":"http://t.me/wadiehabib"
+       },
+       "supported_versions":[
+          {
+             "name":"eleven",
+             "xda_thread":"",
+             "supported_edition":[
+                "vanilla",
+                "gapps"
+             ],
+             "dropped":false
+       }
+     ]
+   }
  ]
