@@ -20,5 +20,27 @@
              "dropped":false
           }
        ]
+    },
+    {
+       "codename":"begonia",
+       "name":"Redmi Note 8 Pro",
+       "brand":"Redmi",
+       "xda_thread":"",
+       "maintainer":{
+          "name":"Itachi",
+          "github_username":"iitachiuchiha",
+          "telegram_url":"http://t.me/KonohaHokage"
+       },
+       "supported_versions":[
+          {
+             "name":"eleven",
+             "xda_thread":"",
+             "supported_edition":[
+                "vanilla",
+                "gapps"
+             ],
+             "dropped":false
+          }
+       ]
     }
  ]
