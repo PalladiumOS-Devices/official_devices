@@ -108,5 +108,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"davinci",
+      "name":"Redmi K20/Mi 9T",
+      "brand":"Xiaomi",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"MR.ROBOT.MK",
+         "github_username":"CoolGuyMK",
+         "telegram_url":"http://t.me/SILENT_KILLER404"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-mi-9t-palladiumos-v1-1-official.4253947/#post-84836871",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
