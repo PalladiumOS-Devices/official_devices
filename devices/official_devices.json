@@ -130,5 +130,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"tissot",
+      "name":"Xiaomi MI A1",
+      "brand":"Xiaomi",
+      "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-palladiumos-official.4254549/",
+      "maintainer":{
+         "name":"Unknownbitch",
+         "github_username":"Unknownbitch07",
+         "telegram_url":"http://t.me/Unknownbitch"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-palladiumos-official.4254549/",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
