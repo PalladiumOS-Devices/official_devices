@@ -130,5 +130,26 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"picasso",
+      "name":"Redmi K30 5G",
+      "brand":"Redmi",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"Mango",
+         "github_username":"MangoTM",
+         "telegram_url":"http://t.me/manukaTM"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"",
+            "supported_edition":[
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
