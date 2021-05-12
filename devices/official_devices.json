@@ -108,5 +108,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+	   "codename":"violet",
+	   "name":"Xiaomi Redmi Note 7 Pro",
+	   "brand":"Xiaomi",
+	   "xda_thread":"",
+	   "maintainer":{
+		   "name":"Shivam Kumar",
+		   "github_username":"ShivamKumar2002",
+		   "telegram_url":"http://t.me/ShivamKumar2002"
+	   },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
