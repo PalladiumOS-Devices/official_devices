@@ -108,5 +108,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"lavender",
+      "name":"Xiaomi Redmi Note 7/7S",
+      "brand":"Xiaomi",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"whtisusername",
+         "github_username":"whtisusername",
+         "telegram_url":"http://t.me/whtisusername"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-official-fajita-11-palladiumos-v1-2.4274351/",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
