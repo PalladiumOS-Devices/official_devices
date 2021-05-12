@@ -108,5 +108,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"RMX2001",
+      "name":"Realme G90T Series",
+      "brand":"realme",
+      "xda_thread":"https://forum.xda-developers.com/t/rom-11-official-palladium-os-08-05-2021.4273873/",
+      "maintainer":{
+         "name":"officialputuid",
+         "github_username":"officialputuid",
+         "telegram_url":"http://t.me/officialputuid"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-11-official-palladium-os-08-05-2021.4273873/",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
