@@ -195,5 +195,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"lavender",
+      "name":"Xiaomi Redmi Note 7/7S",
+      "brand":"Xiaomi",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"whtisusername",
+         "github_username":"whtisusername",
+         "telegram_url":"http://t.me/whtisusername"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
