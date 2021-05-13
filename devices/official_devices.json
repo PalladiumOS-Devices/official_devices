@@ -151,5 +151,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"whyred",
+      "name":"Redmi Note 5 Pro",
+      "brand":"Redmi",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"P.M.SALMAN KHAN",
+         "github_username":"SALMANKHANPM",
+         "telegram_url":"http://t.me/SALMAN_IS_HERE"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
