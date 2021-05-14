@@ -261,5 +261,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"phoenix",
+      "name":"POCO X2/Redmi K30",
+      "brand":"Xiaomi",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"Chiranth",
+         "github_username":"chiru2000",
+         "telegram_url":"http://t.me/chiru2000"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
