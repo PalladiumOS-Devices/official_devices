@@ -44,6 +44,28 @@
       ]
    },
    {
+      "codename":"RMX1901",
+      "name":"Realme X",
+      "brand":"Realme",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"HaSSaN",
+         "github_username":"HaSSaN-L",
+         "telegram_url":"http://t.me/HaSSaN_MoHl"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
+   },
+   {
       "codename":"RMX1971",
       "name":"Realme 5 Pro",
       "brand":"Realme",
