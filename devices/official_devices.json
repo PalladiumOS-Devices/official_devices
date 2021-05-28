@@ -283,5 +283,27 @@
             "dropped":false
          }
       ]
+    },
+   {
+      "codename":"Surya/Karna",
+      "name":"POCO X3 NFC/POCO X3",
+      "brand":"Xiaomi",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"CHRISL7",
+         "github_username":"chrisw444",
+         "telegram_url":"http://t.me/CHRISL7"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
