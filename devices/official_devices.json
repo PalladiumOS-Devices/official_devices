@@ -219,15 +219,37 @@
       ]
    },
    {
-	   "codename":"violet",
-	   "name":"Xiaomi Redmi Note 7 Pro",
-	   "brand":"Xiaomi",
-	   "xda_thread":"",
-	   "maintainer":{
-		   "name":"Shivam Kumar",
-		   "github_username":"ShivamKumar2002",
-		   "telegram_url":"http://t.me/ShivamKumar2002"
-	   },
+      "codename":"violet",
+      "name":"Xiaomi Redmi Note 7 Pro",
+      "brand":"Xiaomi",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"Shivam Kumar",
+         "github_username":"ShivamKumar2002",
+         "telegram_url":"http://t.me/ShivamKumar2002"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
+   },
+   {
+      "codename":"RMX1901",
+      "name":"Realme X",
+      "brand":"Realme",
+      "xda_thread":"",
+      "maintainer":{
+         "name":"HaSSaN",
+         "github_username":"HaSSaN-L",
+         "telegram_url":"http://t.me/HaSSaN_MoHl"
+      },
       "supported_versions":[
          {
             "name":"11",
@@ -283,7 +305,7 @@
             "dropped":false
          }
       ]
-    },
+   },
    {
       "codename":"Surya/Karna",
       "name":"POCO X3 NFC/POCO X3",
