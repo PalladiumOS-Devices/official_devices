@@ -327,5 +327,27 @@
             "dropped":false
          }
       ]
+   },
+   {
+      "codename":"Enchilada",
+      "name":"OnePlus 6",
+      "brand":"OnePlus",
+      "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-enchilada-official-palladium-os-1-3.4270149/",
+      "maintainer":{
+         "name":"ZahidM Choudhry ",
+         "github_username":"zahidmgsk",
+         "telegram_url":"http://t.me/zahidmgsk"
+      },
+      "supported_versions":[
+         {
+            "name":"11",
+            "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-enchilada-official-palladium-os-1-3.4270149/",
+            "supported_edition":[
+               "vanilla",
+               "gapps"
+            ],
+            "dropped":false
+         }
+      ]
    }
 ]
