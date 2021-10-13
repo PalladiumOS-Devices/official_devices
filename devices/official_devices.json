@@ -19,5 +19,26 @@
        "VANILLA"
      ],
      "donation_link": "https://www.paypal.me/lokesh773"
+   },
+   {
+     "brand": "Realme",
+     "name": "Realme 5 Pro",
+     "codename": "RMX1971",
+     "maintainer_name": "goshawk22",
+     "maintainer_xda": "https://forum.xda-developers.com/m/goshawk22.9108029/",
+     "maintainer_country": "UK",
+     "xda_thread": "null",
+     "photo": "https://avatars.githubusercontent.com/u/41483463?v=4",
+     "github_link": "https://github.com/goshawk22",
+     "telegram_link": "https://t.me/goshawk22",
+     "active": true,
+     "supported_versions": [
+       "11"
+     ],
+     "supported_types": [
+       "GAPPS",
+       "VANILLA"
+     ],
+     "donation_link": "https://www.paypal.me/goshawk22"
    }
  ]
