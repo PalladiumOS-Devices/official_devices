@@ -1,15 +1,15 @@
 [
    {
      "brand": "Xiaomi",
-     "name": "Redmi Note 9 Series",
-     "codename": "miatoll",
-     "maintainer_name": "Lokesh Kasamneni",
-     "maintainer_xda": "https://forum.xda-developers.com/m/lokesh773.9362438/",
-     "maintainer_country": "IND",
+     "name": "Mi 9T Pro/Redmi K20 Pro",
+     "codename": "raphael",
+     "maintainer_name": "Wadie Habib",
+     "maintainer_xda": "https://forum.xda-developers.com/m/wadiehabib/",
+     "maintainer_country": "SYR",
      "xda_thread": "null",
-     "photo": "https://avatars.githubusercontent.com/u/43849744?v=4",
-     "github_link": "https://github.com/Lokesh773",
-     "telegram_link": "https://t.me/l_o_k_e",
+     "photo": "https://avatars.githubusercontent.com/u/84630485?v=4",
+     "github_link": "https://github.com/wadiehabib",
+     "telegram_link": "https://t.me/wadiehabib",
      "active": true,
      "supported_versions": [
        "11"
@@ -18,6 +18,6 @@
        "GAPPS",
        "VANILLA"
      ],
-     "donation_link": "https://www.paypal.me/lokesh773"
+     "donation_link": "http://paypal.me/VStore193"
    }
  ]
