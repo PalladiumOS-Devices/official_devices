@@ -61,5 +61,26 @@
         "VANILLA"
      ],
      "donation_link":"https://paypal.me/VStore193"
+  },
+  {
+     "brand":"Realme",
+     "name":"Realme 6",
+     "codename":"RMX2001",
+     "maintainer_name":"officialputuid",
+     "maintainer_xda":"https://forum.xda-developers.com/m/officialputuid.9594244/",
+     "maintainer_country":"IDN",
+     "xda_thread":"null",
+     "photo":"https://avatars.githubusercontent.com/u/40856427?v=4",
+     "github_link":"https://github.com/officialputuid",
+     "telegram_link":"https://t.me/officialputuid",
+     "active":true,
+     "supported_versions":[
+        "11"
+     ],
+     "supported_types":[
+        "GAPPS",
+        "VANILLA"
+     ],
+     "donation_link":"https://trakteer.id/officialputuid"
   }
 ]
