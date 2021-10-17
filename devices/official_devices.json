@@ -102,5 +102,26 @@
       "VANILLA"
    ],
    "donation_link":"https://trakteer.id/officialputuid"
-}
+},
+{
+     "brand":"Xiaomi",
+     "name":"Mi 9T /Redmi K20",
+     "codename":"davinci",
+     "maintainer_name":"M.K",
+     "maintainer_xda":"https://forum.xda-developers.com/m/mr-robot-mk.10087623/",
+     "maintainer_country":"EGY",
+     "xda_thread":"null",
+     "photo":"https://avatars.githubusercontent.com/CoolGuyMK",
+     "github_link":"https://github.com/CoolGuyMK",
+     "telegram_link":"https://t.me/SILENT_KILLER404",
+     "active":true,
+     "supported_versions":[
+        "11"
+     ],
+     "supported_types":[
+        "GAPPS",
+        "VANILLA"
+     ],
+     "donation_link":"http://paypal.me/ashrafkasem"
+  }
 ]
