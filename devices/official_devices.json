@@ -123,5 +123,26 @@
         "VANILLA"
      ],
      "donation_link":"http://paypal.me/ashrafkasem"
-  }
+  },
+{
+   "brand":"Redmi",
+   "name":"Note 6 Pro",
+   "codename":"tulip",
+   "maintainer_name":"Muti605",
+   "maintainer_xda":"https://forum.xda-developers.com/m/muti605.7950187/",
+   "maintainer_country":"TR",
+   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-palladiumos-v1-3-for-redmi-note-6-pro-official-tulip.4247709/",
+   "photo":"https://avatars.githubusercontent.com/u/64308099?v=4",
+   "github_link":"https://github.com/muti605",
+   "telegram_link":"https://t.me/muti605",
+   "active":true,
+   "supported_versions":[
+      "11"
+   ],
+   "supported_types":[
+      "GAPPS",
+      "VANILLA"
+   ],
+   "donation_link":""
+}
 ]
