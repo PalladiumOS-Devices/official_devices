@@ -125,8 +125,8 @@
      "donation_link":"http://paypal.me/ashrafkasem"
    },
    {
-   "brand":"Redmi",
-   "name":"Note 6 Pro",
+   "brand":"Xiaomi",
+   "name":"Redmi Note 6 Pro",
    "codename":"tulip",
    "maintainer_name":"Muti605",
    "maintainer_xda":"https://forum.xda-developers.com/m/muti605.7950187/",
@@ -146,7 +146,7 @@
    "donation_link":""
    },
    {
-      "brand":"POCO/Redmi",
+      "brand":"Xiaomi",
       "name":"POCO X2/Redmi K30",
       "codename":"phoenix",
       "maintainer_name":"chiru2000",
