@@ -1,5 +1,5 @@
 [
-  {
+   {
      "brand":"Xiaomi",
      "name":"Redmi Note 9 Series",
      "codename":"miatoll",
@@ -19,8 +19,8 @@
         "VANILLA"
      ],
      "donation_link":"https://www.paypal.me/lokesh773"
-  },
-  {
+   },
+   {
      "brand":"Realme",
      "name":"Realme 5 Pro",
      "codename":"RMX1971",
@@ -40,8 +40,8 @@
         "VANILLA"
      ],
      "donation_link":"https://www.paypal.me/goshawk22"
-  },
-  {
+   },
+   {
      "brand":"Xiaomi",
      "name":"Mi 9T Pro/Redmi K20 Pro",
      "codename":"raphael",
@@ -61,8 +61,8 @@
         "VANILLA"
      ],
      "donation_link":"https://paypal.me/VStore193"
-  },
-  {
+   },
+   {
      "brand":"Xiaomi",
      "name":"Xiaomi MI A1",
      "codename":"tissot",
@@ -81,8 +81,8 @@
         "VANILLA"
      ],
      "donation_link":"https://paypal.me/sufiyan777"
-  },
-  {
+   },
+   {
    "brand":"Realme",
    "name":"Realme 6",
    "codename":"RMX2001",
@@ -102,8 +102,8 @@
       "VANILLA"
    ],
    "donation_link":"https://trakteer.id/officialputuid"
-},
-{
+   },
+   {
      "brand":"Xiaomi",
      "name":"Mi 9T /Redmi K20",
      "codename":"davinci",
@@ -123,8 +123,8 @@
         "VANILLA"
      ],
      "donation_link":"http://paypal.me/ashrafkasem"
-  },
-{
+   },
+   {
    "brand":"Redmi",
    "name":"Note 6 Pro",
    "codename":"tulip",
@@ -144,5 +144,25 @@
       "VANILLA"
    ],
    "donation_link":""
-}
+   },
+   {
+      "brand":"POCO/Redmi",
+      "name":"POCO X2/Redmi K30",
+      "codename":"phoenix",
+      "maintainer_name":"chiru2000",
+      "maintainer_xda":"https://forum.xda-developers.com/m/chiru2000.10100968/",
+      "maintainer_country":"IND",
+      "xda_thread":"",
+      "photo":"https://avatars.githubusercontent.com/u/62655834?v=4",
+      "github_link":"https://github.com/chiru2000",
+      "telegram_link":"https://t.me/chiru2000",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "GAPPS"
+      ],
+      "donation_link":"http://paypal.me/chiru2000"
+   }
 ]
