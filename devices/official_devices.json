@@ -144,6 +144,46 @@
       "VANILLA"
    ],
    "donation_link":""
+},
+{
+   "brand":"OnePlus",
+   "name":"OnePlus6",
+   "codename":"enchilada",
+   "maintainer_name":"ZahidM Choudhry",
+   "maintainer_xda":"https://forum.xda-developers.com/m/zahidm.5563223/",
+   "maintainer_country":"PK",
+   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-enchilada-official-palladium-os-1-4.4270149/",
+   "photo":"https://avatars.githubusercontent.com/zahidmgsk",
+   "github_link":"https://github.com/zahidmgsk",
+   "telegram_link":"https://t.me/zahidmgsk",
+   "active":true,
+   "supported_versions":[
+      "11"
+   ],
+   "supported_types":[
+      "GAPPS"
+   ],
+   "donation_link":""
+},
+{
+   "brand":"OnePlus",
+   "name":"OnePlus6T",
+   "codename":"fajita",
+   "maintainer_name":"ZahidM Choudhry",
+   "maintainer_xda":"https://forum.xda-developers.com/m/zahidm.5563223/",
+   "maintainer_country":"PK",
+   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-enchilada-official-palladium-os-1-4.4270149/",
+   "photo":"https://avatars.githubusercontent.com/zahidmgsk",
+   "github_link":"https://github.com/zahidmgsk",
+   "telegram_link":"https://t.me/zahidmgsk",
+   "active":true,
+   "supported_versions":[
+      "11"
+   ],
+   "supported_types":[
+      "GAPPS"
+   ],
+   "donation_link":""
    },
    {
       "brand":"Xiaomi",
