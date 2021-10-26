@@ -1,189 +1,189 @@
 [
    {
-     "brand":"Xiaomi",
-     "name":"Redmi Note 9 Series",
-     "codename":"miatoll",
-     "maintainer_name":"Lokesh Kasamneni",
-     "maintainer_xda":"https://forum.xda-developers.com/m/lokesh773.9362438/",
-     "maintainer_country":"IND",
-     "xda_thread":"null",
-     "photo":"https://avatars.githubusercontent.com/u/43849744?v=4",
-     "github_link":"https://github.com/Lokesh773",
-     "telegram_link":"https://t.me/l_o_k_e",
-     "active":true,
-     "supported_versions":[
-        "11"
-     ],
-     "supported_types":[
-        "GAPPS",
-        "VANILLA"
-     ],
-     "donation_link":"https://www.paypal.me/lokesh773"
+      "brand":"Xiaomi",
+      "name":"Redmi Note 9 Series",
+      "codename":"miatoll",
+      "maintainer_name":"Lokesh Kasamneni",
+      "maintainer_xda":"https://forum.xda-developers.com/m/lokesh773.9362438/",
+      "maintainer_country":"IND",
+      "xda_thread":"null",
+      "photo":"https://avatars.githubusercontent.com/u/43849744?v=4",
+      "github_link":"https://github.com/Lokesh773",
+      "telegram_link":"https://t.me/l_o_k_e",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "GAPPS",
+         "VANILLA"
+      ],
+      "donation_link":"https://www.paypal.me/lokesh773"
    },
    {
-     "brand":"Realme",
-     "name":"Realme 5 Pro",
-     "codename":"RMX1971",
-     "maintainer_name":"goshawk22",
-     "maintainer_xda":"https://forum.xda-developers.com/m/goshawk22.9108029/",
-     "maintainer_country":"UK",
-     "xda_thread":"null",
-     "photo":"https://avatars.githubusercontent.com/u/41483463?v=4",
-     "github_link":"https://github.com/goshawk22",
-     "telegram_link":"https://t.me/goshawk22",
-     "active":true,
-     "supported_versions":[
-        "11"
-     ],
-     "supported_types":[
-        "GAPPS",
-        "VANILLA"
-     ],
-     "donation_link":"https://www.paypal.me/goshawk22"
+      "brand":"Realme",
+      "name":"Realme 5 Pro",
+      "codename":"RMX1971",
+      "maintainer_name":"goshawk22",
+      "maintainer_xda":"https://forum.xda-developers.com/m/goshawk22.9108029/",
+      "maintainer_country":"UK",
+      "xda_thread":"null",
+      "photo":"https://avatars.githubusercontent.com/u/41483463?v=4",
+      "github_link":"https://github.com/goshawk22",
+      "telegram_link":"https://t.me/goshawk22",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "GAPPS",
+         "VANILLA"
+      ],
+      "donation_link":"https://www.paypal.me/goshawk22"
    },
    {
-     "brand":"Xiaomi",
-     "name":"Mi 9T Pro/Redmi K20 Pro",
-     "codename":"raphael",
-     "maintainer_name":"Wadie Habib",
-     "maintainer_xda":"https://forum.xda-developers.com/m/wadiehabib/",
-     "maintainer_country":"SYR",
-     "xda_thread":"null",
-     "photo":"https://avatars.githubusercontent.com/u/84630485?v=4",
-     "github_link":"https://github.com/wadiehabib",
-     "telegram_link":"https://t.me/wadiehabib",
-     "active":true,
-     "supported_versions":[
-        "11"
-     ],
-     "supported_types":[
-        "GAPPS",
-        "VANILLA"
-     ],
-     "donation_link":"https://paypal.me/VStore193"
+      "brand":"Xiaomi",
+      "name":"Mi 9T Pro/Redmi K20 Pro",
+      "codename":"raphael",
+      "maintainer_name":"Wadie Habib",
+      "maintainer_xda":"https://forum.xda-developers.com/m/wadiehabib/",
+      "maintainer_country":"SYR",
+      "xda_thread":"null",
+      "photo":"https://avatars.githubusercontent.com/u/84630485?v=4",
+      "github_link":"https://github.com/wadiehabib",
+      "telegram_link":"https://t.me/wadiehabib",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "GAPPS",
+         "VANILLA"
+      ],
+      "donation_link":"https://paypal.me/VStore193"
    },
    {
-     "brand":"Xiaomi",
-     "name":"Xiaomi MI A1",
-     "codename":"tissot",
-     "maintainer_name":"Unknownbitch",
-     "maintainer_xda":"https://forum.xda-developers.com/m/unknownbitch/",
-     "maintainer_country":"IND",
-     "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-palladiumos-official.4254549/",
-     "photo":"https://avatars.githubusercontent.com/u/68426327?v=4",
-     "github_link":"https://github.com/Unknownbitch07",
-     "telegram_link":"https://t.me/unknownbitch",
-     "active":true,
-     "supported_versions":[
-        "11"
-     ],
-     "supported_types":[
-        "VANILLA"
-     ],
-     "donation_link":"https://paypal.me/sufiyan777"
+      "brand":"Xiaomi",
+      "name":"Xiaomi MI A1",
+      "codename":"tissot",
+      "maintainer_name":"Unknownbitch",
+      "maintainer_xda":"https://forum.xda-developers.com/m/unknownbitch/",
+      "maintainer_country":"IND",
+      "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-palladiumos-official.4254549/",
+      "photo":"https://avatars.githubusercontent.com/u/68426327?v=4",
+      "github_link":"https://github.com/Unknownbitch07",
+      "telegram_link":"https://t.me/unknownbitch",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "VANILLA"
+      ],
+      "donation_link":"https://paypal.me/sufiyan777"
    },
    {
-   "brand":"Realme",
-   "name":"Realme 6",
-   "codename":"RMX2001",
-   "maintainer_name":"officialputuid",
-   "maintainer_xda":"https://forum.xda-developers.com/m/officialputuid.9594244/",
-   "maintainer_country":"IDN",
-   "xda_thread":"null",
-   "photo":"https://avatars.githubusercontent.com/u/40856427?v=4",
-   "github_link":"https://github.com/officialputuid",
-   "telegram_link":"https://t.me/officialputuid",
-   "active":true,
-   "supported_versions":[
-      "11"
-   ],
-   "supported_types":[
-      "GAPPS",
-      "VANILLA"
-   ],
-   "donation_link":"https://trakteer.id/officialputuid"
+      "brand":"Realme",
+      "name":"Realme 6",
+      "codename":"RMX2001",
+      "maintainer_name":"officialputuid",
+      "maintainer_xda":"https://forum.xda-developers.com/m/officialputuid.9594244/",
+      "maintainer_country":"IDN",
+      "xda_thread":"null",
+      "photo":"https://avatars.githubusercontent.com/u/40856427?v=4",
+      "github_link":"https://github.com/officialputuid",
+      "telegram_link":"https://t.me/officialputuid",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "GAPPS",
+         "VANILLA"
+      ],
+      "donation_link":"https://trakteer.id/officialputuid"
    },
    {
-     "brand":"Xiaomi",
-     "name":"Mi 9T /Redmi K20",
-     "codename":"davinci",
-     "maintainer_name":"M.K",
-     "maintainer_xda":"https://forum.xda-developers.com/m/mr-robot-mk.10087623/",
-     "maintainer_country":"EGY",
-     "xda_thread":"null",
-     "photo":"https://avatars.githubusercontent.com/CoolGuyMK",
-     "github_link":"https://github.com/CoolGuyMK",
-     "telegram_link":"https://t.me/SILENT_KILLER404",
-     "active":true,
-     "supported_versions":[
-        "11"
-     ],
-     "supported_types":[
-        "GAPPS",
-        "VANILLA"
-     ],
-     "donation_link":"http://paypal.me/ashrafkasem"
+      "brand":"Xiaomi",
+      "name":"Mi 9T /Redmi K20",
+      "codename":"davinci",
+      "maintainer_name":"M.K",
+      "maintainer_xda":"https://forum.xda-developers.com/m/mr-robot-mk.10087623/",
+      "maintainer_country":"EGY",
+      "xda_thread":"null",
+      "photo":"https://avatars.githubusercontent.com/CoolGuyMK",
+      "github_link":"https://github.com/CoolGuyMK",
+      "telegram_link":"https://t.me/SILENT_KILLER404",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "GAPPS",
+         "VANILLA"
+      ],
+      "donation_link":"http://paypal.me/ashrafkasem"
    },
    {
-   "brand":"Xiaomi",
-   "name":"Redmi Note 6 Pro",
-   "codename":"tulip",
-   "maintainer_name":"Muti605",
-   "maintainer_xda":"https://forum.xda-developers.com/m/muti605.7950187/",
-   "maintainer_country":"TR",
-   "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-palladiumos-v1-3-for-redmi-note-6-pro-official-tulip.4247709/",
-   "photo":"https://avatars.githubusercontent.com/u/64308099?v=4",
-   "github_link":"https://github.com/muti605",
-   "telegram_link":"https://t.me/muti605",
-   "active":true,
-   "supported_versions":[
-      "11"
-   ],
-   "supported_types":[
-      "GAPPS",
-      "VANILLA"
-   ],
-   "donation_link":""
-},
-{
-   "brand":"OnePlus",
-   "name":"OnePlus6",
-   "codename":"enchilada",
-   "maintainer_name":"ZahidM Choudhry",
-   "maintainer_xda":"https://forum.xda-developers.com/m/zahidm.5563223/",
-   "maintainer_country":"PK",
-   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-enchilada-official-palladium-os-1-4.4270149/",
-   "photo":"https://avatars.githubusercontent.com/zahidmgsk",
-   "github_link":"https://github.com/zahidmgsk",
-   "telegram_link":"https://t.me/zahidmgsk",
-   "active":true,
-   "supported_versions":[
-      "11"
-   ],
-   "supported_types":[
-      "GAPPS"
-   ],
-   "donation_link":""
-},
-{
-   "brand":"OnePlus",
-   "name":"OnePlus6T",
-   "codename":"fajita",
-   "maintainer_name":"ZahidM Choudhry",
-   "maintainer_xda":"https://forum.xda-developers.com/m/zahidm.5563223/",
-   "maintainer_country":"PK",
-   "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-enchilada-official-palladium-os-1-4.4270149/",
-   "photo":"https://avatars.githubusercontent.com/zahidmgsk",
-   "github_link":"https://github.com/zahidmgsk",
-   "telegram_link":"https://t.me/zahidmgsk",
-   "active":true,
-   "supported_versions":[
-      "11"
-   ],
-   "supported_types":[
-      "GAPPS"
-   ],
-   "donation_link":""
+      "brand":"Xiaomi",
+      "name":"Redmi Note 6 Pro",
+      "codename":"tulip",
+      "maintainer_name":"Muti605",
+      "maintainer_xda":"https://forum.xda-developers.com/m/muti605.7950187/",
+      "maintainer_country":"TR",
+      "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-palladiumos-v1-3-for-redmi-note-6-pro-official-tulip.4247709/",
+      "photo":"https://avatars.githubusercontent.com/u/64308099?v=4",
+      "github_link":"https://github.com/muti605",
+      "telegram_link":"https://t.me/muti605",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "GAPPS",
+         "VANILLA"
+      ],
+      "donation_link":""
+   },
+   {
+      "brand":"OnePlus",
+      "name":"OnePlus6",
+      "codename":"enchilada",
+      "maintainer_name":"ZahidM Choudhry",
+      "maintainer_xda":"https://forum.xda-developers.com/m/zahidm.5563223/",
+      "maintainer_country":"PK",
+      "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-enchilada-official-palladium-os-1-4.4270149/",
+      "photo":"https://avatars.githubusercontent.com/zahidmgsk",
+      "github_link":"https://github.com/zahidmgsk",
+      "telegram_link":"https://t.me/zahidmgsk",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "GAPPS"
+      ],
+      "donation_link":""
+   },
+   {
+      "brand":"OnePlus",
+      "name":"OnePlus6T",
+      "codename":"fajita",
+      "maintainer_name":"ZahidM Choudhry",
+      "maintainer_xda":"https://forum.xda-developers.com/m/zahidm.5563223/",
+      "maintainer_country":"PK",
+      "xda_thread":"https://forum.xda-developers.com/t/rom-android-11-enchilada-official-palladium-os-1-4.4270149/",
+      "photo":"https://avatars.githubusercontent.com/zahidmgsk",
+      "github_link":"https://github.com/zahidmgsk",
+      "telegram_link":"https://t.me/zahidmgsk",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "GAPPS"
+      ],
+      "donation_link":""
    },
    {
       "brand":"Xiaomi",
@@ -206,23 +206,23 @@
       "donation_link":"http://paypal.me/chiru2000"
    },
    {
-     "brand":"POCO",
-     "name":"POCO X3/X3 NFC",
-     "codename":"surya/karna",
-     "maintainer_name":"CHRISL7",
-     "maintainer_xda":"https://forum.xda-developers.com/m/chrisw444.11220339/",
-     "maintainer_country":"BR",
-     "xda_thread":"null",
-     "photo":"https://avatars.githubusercontent.com/chrisw444",
-     "github_link":"https://github.com/chris444",
-     "telegram_link":"https://t.me/CHRISL7",
-     "active":true,
-     "supported_versions":[
-        "11"
-     ],
-     "supported_types":[
-        "GAPPS"
-     ],
-     "donation_link":""
-  }
+      "brand":"Xiaomi",
+      "name":"POCO X3/X3 NFC",
+      "codename":"surya",
+      "maintainer_name":"CHRISL7",
+      "maintainer_xda":"https://forum.xda-developers.com/m/chrisw444.11220339/",
+      "maintainer_country":"BR",
+      "xda_thread":"null",
+      "photo":"https://avatars.githubusercontent.com/chrisw444",
+      "github_link":"https://github.com/chris444",
+      "telegram_link":"https://t.me/CHRISL7",
+      "active":true,
+      "supported_versions":[
+         "11"
+      ],
+      "supported_types":[
+         "GAPPS"
+      ],
+      "donation_link":""
+   }
 ]
