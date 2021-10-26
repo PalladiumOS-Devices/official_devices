@@ -204,5 +204,25 @@
          "GAPPS"
       ],
       "donation_link":"http://paypal.me/chiru2000"
-   }
+   },
+   {
+     "brand":"POCO",
+     "name":"POCO X3/X3 NFC",
+     "codename":"surya/karna",
+     "maintainer_name":"CHRISL7",
+     "maintainer_xda":"https://forum.xda-developers.com/m/chrisw444.11220339/",
+     "maintainer_country":"BR",
+     "xda_thread":"null",
+     "photo":"https://avatars.githubusercontent.com/chrisw444",
+     "github_link":"https://github.com/chris444",
+     "telegram_link":"https://t.me/CHRISL7",
+     "active":true,
+     "supported_versions":[
+        "11"
+     ],
+     "supported_types":[
+        "GAPPS"
+     ],
+     "donation_link":""
+  }
 ]
