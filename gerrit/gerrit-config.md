@@ -4,7 +4,7 @@
 
 ```bash
 $ cd ~/
-$ ssh-keygen -t rsa
+$ ssh-keygen
 ```
 
 After that it will ask for the key location, for default press enter
@@ -31,38 +31,12 @@ Open your terminal and type:
 cat .ssh/id_rsa.pub
 ```
 
-Copy the SSH key and paste it on `https://gerrit.palladiumos.com/#/settings/ssh-keys` and save it.
+Copy the SSH key and paste it on `https://gerrit.palladiumos.com/#/settings/ssh-keys` and **save it**.
 
-## Creating config file
-
-First type:
-
-`$ nano .ssh/config`
-
-And add these details there: 
-
-```    
-Host mail.palladiumos.com
-HostName mail.palladiumos.com
-Port 29418
-User <YourGerritUsername>
-```
-
-Save and exit the file after doing so.
-
-## Granting required permissions
-
-Type the following commands:
-
-```bash
-$ chmod 600 .ssh/config
-$ chmod 700 .ssh/
-$ chmod 600 .ssh/id_rsa
-```
 
 ## Checking everything
 
-To check everything is fine, do a connection Test by typing -> `ssh mail.palladiumos.com` [Type yes if they ask for it]
+To check everything is fine, do a connection Test by typing -> `ssh -p 29418 <YourGerritUserName>@mail.palladiumos.com` [Type yes if they ask for it]
 
 ```
                Welcome to Gerrit Code Review
@@ -78,13 +52,3 @@ Connection to mail.palladiumos.com closed.
 ```
 
 [If you get the above output message, your gerrit is configured]
-
-## Pushing changes to gerrit
-
-Commit all required changes you need to push and use the below command to add hook to it:
-
-`$ gitdir=$(git rev-parse --git-dir); scp -p -P 29418 <YourGerritUsername>@mail.palladiumos.com:hooks/commit-msg ${gitdir}/hooks/`
-
-Then use the following command to push:
-
-`$ git push ssh://<YourGerritUserName>@mail.palladiumos.com:29418/Palladium-OS/<REPOSITORY_NAME> HEAD:refs/for/<branchname>`
