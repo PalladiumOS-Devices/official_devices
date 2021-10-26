@@ -224,5 +224,27 @@
          "GAPPS"
       ],
       "donation_link":""
+   },
+   {
+      "brand":"Realme",
+      "name":"Realme 2 Pro",
+      "codename":"RMX1801",
+      "maintainer_name":"Pranav Ajay R",
+      "maintainer_xda":"",
+      "maintainer_country":"IND",
+      "xda_thread":"null",
+      "photo":"https://avatars.githubusercontent.com/u/39209052?s=400&u=caf733140698857d4b756ee1948a70cc0e1f4745&v=4",
+      "github_link":"https://github.com/sairpa",
+      "telegram_link":"https://t.me/sairpa",
+      "active":true,
+      "supported_versions":[
+         "11",
+         "12"
+      ],
+      "supported_types":[
+         "GAPPS",
+         "VANILLA"
+      ],
+      "donation_link":""
    }
 ]
