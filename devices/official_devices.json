@@ -206,6 +206,26 @@
    ],
    "donation_link":""
    },
+     {
+     "brand":"OnePlus",
+     "name":"OnePlus 8T",
+     "codename":"kebab",
+     "maintainer_name":"Chandu Dyavanapelli",
+     "maintainer_xda":"https://forum.xda-developers.com/m/chandu-dyavanapelli.9830048/",
+     "maintainer_country":"IND",
+     "xda_thread":"null",
+     "photo":"https://avatars.githubusercontent.com/u/68366708?v=4",
+     "github_link":"https://github.com/chandu078",
+     "telegram_link":"https://t.me/Chandu_Dyavanapelli",
+     "active":true,
+     "supported_versions":[
+        "11"
+     ],
+     "supported_types":[
+        "GAPPS"
+     ],
+     "donation_link":"https://www.paypal.me/ChanduDyavanapelli"
+   },
    {
       "brand":"Xiaomi",
       "name":"POCO X2/Redmi K30",
