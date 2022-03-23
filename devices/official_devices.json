@@ -63,6 +63,27 @@
 		],
 		"donation_link": "https://paypal.me/VStore193"
 	},
+        {
+                "brand":"Xiaomi",
+                "name":"Xiaomi Mi 9",
+                "codename":"Cepheus",
+                "maintainer_name":"freesoul00",
+                "maintainer_xda":"https://forum.xda-developers.com/m/freesoul007.10375525/",
+                "maintainer_country":"MA",
+                "xda_thread":"null",
+                "photo":"https://avatars.githubusercontent.com/u/41483463?v=4",
+                "github_link":"https://github.com/dark-free",
+                "telegram_link":"https://t.me/freesoul00",
+                "active":true,
+                "supported_versions":[
+                        "12"
+                ],
+                "supported_types":[
+                        "GAPPS",
+                        "VANILLA"
+                ],
+                "donation_link":"https://www.paypal.me/freesoul007"
+        },
 	{
 		"brand": "Xiaomi",
 		"name": "Xiaomi MI A1",
