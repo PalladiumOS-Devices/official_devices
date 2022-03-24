@@ -206,5 +206,25 @@
 			"VANILLA"
 		],
 		"donation_link": ""
-	}
+	},
+	{
+		"brand":"Realme",
+		"name":"Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
+		"codename":"RM6785",
+		"maintainer_name":"Mihir Sahay",
+		"maintainer_xda":"",
+		"maintainer_country":"IND",
+		"xda_thread":"null",
+		"photo":"https://avatars.githubusercontent.com/u/96643334?s=400&u=29920238884a45f65f1ccd5f8cfe59e40405873a&v=4",
+		"github_link":"https://github.com/sahaymihir",
+		"telegram_link":"https://t.me/mihirsahay",
+		"active":true,
+		"supported_versions":[
+		   "12.1"
+		],
+		"supported_types":[
+		   "GAPPS"
+		],
+		"donation_link":""
+	 }
 ]
