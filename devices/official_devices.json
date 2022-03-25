@@ -88,19 +88,21 @@
 		"brand": "Xiaomi",
 		"name": "Xiaomi MI A1",
 		"codename": "tissot",
-		"maintainer_name": "Unknownbitch",
+		"maintainer_name": "ucoboy",
 		"maintainer_xda": "https://forum.xda-developers.com/m/unknownbitch/",
 		"maintainer_country": "IND",
 		"xda_thread": "https://forum.xda-developers.com/t/rom-11-0-palladiumos-official.4254549/",
 		"photo": "https://avatars.githubusercontent.com/u/68426327?v=4",
-		"github_link": "https://github.com/Unknownbitch07",
-		"telegram_link": "https://t.me/unknownbitch",
+		"github_link": "https://github.com/ucoboy",
+		"telegram_link": "https://t.me/ucoboy",
 		"active": true,
 		"supported_versions": [
 			"11"
+                        "12.1"
 		],
 		"supported_types": [
 			"VANILLA"
+                        "GAPPS"
 		],
 		"donation_link": "https://paypal.me/sufiyan777"
 	},
