@@ -97,11 +97,11 @@
 		"telegram_link": "https://t.me/ucoboy",
 		"active": true,
 		"supported_versions": [
-			"11"
+			"11",
                         "12.1"
 		],
 		"supported_types": [
-			"VANILLA"
+			"VANILLA",
                         "GAPPS"
 		],
 		"donation_link": "https://paypal.me/sufiyan777"
