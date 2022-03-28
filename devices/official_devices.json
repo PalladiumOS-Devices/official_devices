@@ -228,5 +228,25 @@
 		   "GAPPS"
 		],
 		"donation_link":""
+	 },
+	 {
+		"brand":"Xiaomi",
+		"name":"POCO F3/Redmi K40",
+		"codename":"alioth",
+		"maintainer_name":"theangelofdead01",
+		"maintainer_xda":"",
+		"maintainer_country":"EC",
+		"xda_thread":"null",
+		"photo":"https://avatars.githubusercontent.com/u/96643334?s=400&u=29920238884a45f65f1ccd5f8cfe59e40405873a&v=4",
+		"github_link":"https://github.com/theangelofdead01",
+		"telegram_link":"https://t.me/theangelofdead01",
+		"active":true,
+		"supported_versions":[
+		   "12.1"
+		],
+		"supported_types":[
+		   "GAPPS"
+		],
+		"donation_link":""
 	 }
 ]
