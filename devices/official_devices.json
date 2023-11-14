@@ -1,44 +1,48 @@
 [
    {
-      "brand":"Xiaomi",
-      "name":"Redmi Note 9 Series",
-      "codename":"miatoll",
-      "maintainer_name":"Lokesh Kasamneni",
-      "maintainer_xda":"https://forum.xda-developers.com/m/lokesh773.9362438/",
-      "maintainer_country":"IND",
-      "xda_thread":"https://forum.xda-developers.com/t/rom-android-12-palladium-os-curtana-excalibur-gram-joyuese-miatoll.4353033/#post-85841673",
-      "photo":"https://avatars.githubusercontent.com/u/43849744?v=4",
-      "github_link":"https://github.com/Lokesh773",
-      "telegram_link":"https://t.me/l_o_k_e",
-      "active":true,
-      "supported_versions":[
-         "13"
-      ],
-      "supported_types":[
-         "GAPPS",
-         "VANILLA"
-      ],
-      "donation_link":"https://www.paypal.me/lokesh773"
-   },
-   {
-      "brand":"Xiaomi",
-      "name":"Poco F4",
-      "codename":"munch",
-      "maintainer_name":"Sanjheevi",
-      "maintainer_xda":"https://forum.xda-developers.com/m/sanjheevi.11006187/",
-      "maintainer_country":"IND",
-      "xda_thread":"",
-      "photo":"https://avatars.githubusercontent.com/u/64297445?v=4",
-      "github_link":"https://github.com/sanjheevi",
-      "telegram_link":"https://t.me/sanjheevi",
-      "active":true,
-      "supported_versions":[
-         "13"
-      ],
-      "supported_types":[
-         "GAPPS",
-         "VANILLA"
-      ],
-      "donation_link":"https://www.paypal.me/zoldycc"
+     "brand": "Xiaomi",
+     "devices": [
+       {
+         "name": "Redmi Note 9 Series",
+         "codename": "miatoll",
+         "maintainer_name": "Lokesh Kasamneni",
+         "maintainer_xda": "https://forum.xda-developers.com/m/lokesh773.9362438/",
+         "maintainer_country": "IND",
+         "xda_thread": "https://forum.xda-developers.com/t/rom-android-12-palladium-os-curtana-excalibur-gram-joyuese-miatoll.4353033/#post-85841673",
+         "photo": "https://avatars.githubusercontent.com/u/43849744?v=4",
+         "github_link": "https://github.com/Lokesh773",
+         "telegram_link": "https://t.me/l_o_k_e",
+         "active": true,
+         "supported_versions": [
+           "13"
+         ],
+         "supported_types": [
+           "GAPPS",
+           "VANILLA"
+         ],
+         "donation_link": "https://www.paypal.me/lokesh773"
+       },
+       {
+         "brand": "Xiaomi",
+         "name": "Poco F4",
+         "codename": "munch",
+         "maintainer_name": "Sanjheevi",
+         "maintainer_xda": "https://forum.xda-developers.com/m/sanjheevi.11006187/",
+         "maintainer_country": "IND",
+         "xda_thread": "",
+         "photo": "https://avatars.githubusercontent.com/u/64297445?v=4",
+         "github_link": "https://github.com/sanjheevi",
+         "telegram_link": "https://t.me/sanjheevi",
+         "active": true,
+         "supported_versions": [
+           "13"
+         ],
+         "supported_types": [
+           "GAPPS",
+           "VANILLA"
+         ],
+         "donation_link": "https://www.paypal.me/zoldycc"
+       }
+     ]
    }
-]
+ ]
