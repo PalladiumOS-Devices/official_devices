@@ -2,16 +2,7 @@
     {
         "core": "true",
         "developers": [
-            {
-                "maintainer_name": "Lokesh Kasamneni",
-                "maintainer_xda": "https://forum.xda-developers.com/m/lokesh773.9362438/",
-                "maintainer_country": "IND",
-                "github_link": "https://github.com/Lokesh773",
-                "telegram_link": "https://t.me/l_o_k_e",
-                "donation_link": "https://www.paypal.me/lokesh773",
-                "role": "Core Developer"
-            },
-            {
+              {
                 "maintainer_name": "Sanjheevi",
                 "maintainer_xda": "https://forum.xda-developers.com/m/sanjheevi.11006187/",
                 "maintainer_country": "IND",
@@ -19,6 +10,15 @@
                 "github_link": "https://github.com/sanjheevi",
                 "telegram_link": "https://t.me/sanjheevi",
                 "donation_link": "https://www.paypal.me/zoldycc",
+                "role": "Core Developer"
+            },
+            {
+                "maintainer_name": "Lokesh Kasamneni",
+                "maintainer_xda": "https://forum.xda-developers.com/m/lokesh773.9362438/",
+                "maintainer_country": "IND",
+                "github_link": "https://github.com/Lokesh773",
+                "telegram_link": "https://t.me/l_o_k_e",
+                "donation_link": "https://www.paypal.me/lokesh773",
                 "role": "Core Developer"
             }
         ]
